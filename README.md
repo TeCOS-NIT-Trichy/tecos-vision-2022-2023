@@ -22,3 +22,7 @@
 ## Blogs
 - GSOC'23 Timeline
 - Other open source events
+
+## Repo
+
+- GSOC proposal
