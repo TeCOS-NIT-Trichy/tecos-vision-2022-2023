@@ -1,28 +1,18 @@
-# TeCOS 
+# TeCOS Community
 
-## Inductions 2022 NOV 2022
+## Inductions 2022 Nov and Dec *Done*
 
 - Android/Web Dev Courses.
 - Github Skills (https://skills.github.com/).
-- Your own portfolio.
 - Search the other college open source community.
 
-## TeCOS
+## Jan 2023
 
-- TeCOS Community.
-- Posts and Content.
-
-## After Inductions
-
-- Blogs and post on open source to keep them engaged.
+- Post on open source to keep them engaged. _Ongoing_
+- GSOC'23 Timeline _Pending_
+- Other open source events _Pending_
 - Portfolio for TeCOS.
-- Follow a game and contribute to it (eg 2048 game)
-- Domain wise learning idea.
 
-## Blogs
-- GSOC'23 Timeline
-- Other open source events
-
-## Repo
+### Repo
 
 - GSOC proposal
