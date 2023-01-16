@@ -15,6 +15,7 @@
 - PaiNITTe Post _Done, yet to post_
 - Induction Result _Done, yet to post_
 - Outreachy Post _Pending_
+- TeCOS Wiki _wokring on_
 - Portfolio for TeCOS. _On hold_
 
 ### Repo
